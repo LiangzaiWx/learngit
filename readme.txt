@@ -4,3 +4,4 @@ Git has a mutable index call stage.
 Git tracks changes.
 Creating a new branch is quick and simple.
 Merge - fast forward.
+Collaboration.
